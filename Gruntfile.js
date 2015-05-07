@@ -1,6 +1,6 @@
 'use strict';
 
-// # Globbing
+// # Globbinger
 // for performance reasons we're only matching one level down:
 // 'test/spec/{,*/}*.js'
 // use this if you want to recursively match all subfolders:
@@ -162,7 +162,7 @@ module.exports = function (grunt) {
     // Automatically inject Bower components into the app
     wiredep: {
       app: {
-        src: ['<%= yeoman.app %>/index.html'],
+        src: ['<%= yeoman.app %>/index.html', '<%= yeoman.app %>/bio.html'],
         ignorePath:  /\.\.\//
       },
       sass: {

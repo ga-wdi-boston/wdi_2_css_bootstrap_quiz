@@ -1,25 +1,7 @@
-'use strict';
-
-var trace = function(){
-  for(var i = 0; i < arguments.length; i++){
-    console.log(arguments[i]);
-  }
-};
-
-var App = App || {};
-
-App.square = function(x){
-  return x * x;
-};
-
-App.cube = function(x){
-  return x * x * x;
-};
-
-App.greet = function(string){
-  return typeof string !== 'undefined' ? 'Hello ' + string : 'Hello World';
-};
-
+// your code here
 $(document).ready(function(){
-  trace('hello world');
+  $('.boxy').click(function(){
+    $(this).remove();
+  });
 });
+// your code here

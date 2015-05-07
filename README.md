@@ -1,42 +1,36 @@
-![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
+# Quiz: An Introduction to Bootstrap
 
-# Javascript Assignment Name
+#### Directions
 
-## Objectives
+* Fork and clone this quiz.
 
-By the end of this, students should be able to:
+* Run npm and bower install.
 
-- Objective 1
-- Objective 2
-- Objective 3
+* You have 30 minutes. When you're done, commit your work and make a
+  pull request.
 
-## Instructions
+* Feel free to use your notes and Google, but you should work by
+  yourself (not with a partner).
 
-Include explict step-by-step instructions about the goals of the assignment, and how to run the code.
+* Remember that you can also use jshint to check the correctness and
+  style of your code.
 
-Make sure to wrap section of code in appropriate markdown like `ls -al`, and denote the language as below for longer sections:
+## Question 1:
 
-```javascript
-function(){
-  var x = 2
-  var y = 3
-  return x + y
-};
+`index.html` has a series of boxes. Please add a bootstrap grid to corral these boxes. When the display has a width larger than 992px, have 3 boxes per row. When the screen is less than 992px wide, have two boxes per row
 
-```
+## Question 2:
 
-## Bonus (Optional Section)
+SURPRISE JQUERY AND 'THIS' QUESTION! In `app.jss`, add a click handler that allows a user to remove a box when they click it.
 
-If you're looking for extra challenge or practice once you've completed the above, try to...
+## Question 3:
 
-## Notes
+`bio.html` is part of our app, but users currently have no way to navigate to it. Add a header that allows users to navigate between it and the homepage.
 
-Gotcha's and extra information
+## Question 4:
 
-## Additional Resources
+Add a grid to the biography page. Make it so that all the text on the page is in a column that is 10 col wide and centered no matter what size the display is.
 
-List additional related resources such as videos, blog posts and official documentation.
 
-- Item 1
-- Item 2
-- Item 3
+
+
