@@ -1,3 +1,16 @@
+.container {
+  border: 10px solid red;
+}
+
+.row {
+  border: 10px solid green;
+}
+
+.col-md-4 {
+  border: 10px solid blue;
+  border-radius: 20px;
+}
+
 .boxy {
   width: 150px;
   height: 150px;
