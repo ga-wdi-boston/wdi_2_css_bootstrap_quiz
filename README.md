@@ -6,7 +6,7 @@
 
 * Run npm and bower install.
 
-* You have 30 minutes. When you're done, commit your work and make a
+* You have 20 minutes. When you're done, commit your work and make a
   pull request.
 
 * Feel free to use your notes and Google, but you should work by
