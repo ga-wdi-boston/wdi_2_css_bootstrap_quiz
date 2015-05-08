@@ -25,7 +25,7 @@ SURPRISE JQUERY AND 'THIS' QUESTION! In `app.jss`, add a click handler that allo
 
 ## Question 3:
 
-`bio.html` is part of our app, but users currently have no way to navigate to it. Add a header that allows users to navigate between it and the homepage.
+`bio.html` is part of our app, but users currently have no way to navigate to it. Add a header that allows users to navigate between it and the homepage. Do not leave any dead links.
 
 ## Question 4:
 
