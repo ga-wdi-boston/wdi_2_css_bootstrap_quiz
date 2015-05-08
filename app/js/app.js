@@ -1,8 +1,8 @@
 
 $(document).ready(function($) {
 
-$( "#boxy" ).click(function() {
-  $( "#boxy" ).remove("#boxy");
+$( ".boxy" ).click(function() {
+  $(this).remove();
   })
 });
 // your code here
